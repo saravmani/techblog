@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[506],{2475:function(e){e.exports=JSON.parse('{"allTagsPath":"/techblog/blog/tags","slug":"/techblog/blog/tags/facebook","name":"facebook","count":1,"permalink":"/techblog/blog/tags/facebook"}')}}]);
