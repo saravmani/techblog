@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/techblog/blog</id>
     <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-01-15T15:22:29.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/techblog/blog"/>
     <subtitle>My Site Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/techblog/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[dotnettest]]></title>
+        <id>long-blog-postss</id>
+        <link href="https://your-docusaurus-test-site.com/techblog/blog/long-blog-postss"/>
+        <updated>2022-01-15T15:22:29.323Z</updated>
+        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
+        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><h6>Frequently used DOS commands</h6><pre><code class="language-powershell">&gt; start . # Opens current working directory in file exporer
+
+&gt; dir  #Lists all directories and files. (Equalent to ls command in linux world)
+&gt; dir /p #Shows the list page by page
+&gt; dir |more # shows the list line by line
+</code></pre><p> :::tip
+testing
+:::</p><p> :::CAUTION
+testing
+:::</p>]]></content>
+        <author>
+            <name>Saravana Manikandan</name>
+            <uri>https://github.com/endiliey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
@@ -30,7 +51,15 @@
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/">MDX</a>.</p><p>:::tip</p><p>Use the power of React to create interactive blog posts.</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert(&#x27;button clicked!&#x27;)}&gt;Click me!&lt;/button&gt;
-</code></pre><button>Click me!</button><p>:::</p>]]></content>
+</code></pre><button>Click me!</button><p>:::</p><p>:::tip do this</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert(&#x27;button clicked!&#x27;)}&gt;Click me!&lt;/button&gt;
+</code></pre><p>:::</p><p>:::warning ss</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert(&#x27;button clicked!&#x27;)}&gt;Click me!&lt;/button&gt;
+</code></pre><p>:::</p><p>:::caution ss</p><pre><code class="language-js">&lt;button onClick={() =&gt; alert(&#x27;button clicked!&#x27;)}&gt;Click me!&lt;/button&gt;
+</code></pre><p>:::</p><h6>Frequently used DOS commands</h6><pre><code class="language-powershell">&gt; start . # Opens current working directory in file exporer
+
+&gt; dir  #Lists all directories and files. (Equalent to ls command in linux world)
+&gt; dir /p #Shows the list page by page
+&gt; dir |more # shows the list line by line
+</code></pre>]]></content>
         <author>
             <name>Sébastien Lorber</name>
             <uri>https://sebastienlorber.com</uri>
@@ -42,9 +71,16 @@
         <link href="https://your-docusaurus-test-site.com/techblog/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><h6>Frequently used DOS commands</h6><pre><code class="language-powershell">&gt; start . # Opens current working directory in file exporer
+
+&gt; dir  #Lists all directories and files. (Equalent to ls command in linux world)
+&gt; dir /p #Shows the list page by page
+&gt; dir |more # shows the list line by line
+</code></pre><p> :::tip
+testing
+:::</p>]]></content>
         <author>
-            <name>Endilie Yacop Sucipto</name>
+            <name>Saravana Manikandan</name>
             <uri>https://github.com/endiliey</uri>
         </author>
     </entry>
