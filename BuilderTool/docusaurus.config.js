@@ -51,7 +51,7 @@ const config = {
         },
         items: [
           {
-            to: '/docss', 
+            
             type: 'doc',
             docId: 'intro',
             position: 'left', 
@@ -117,7 +117,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
-        additionalLanguages: ['powershell','csharp'],
+        additionalLanguages: ['powershell','csharp','ini','typescript'],
+        
+        
         theme: darkCodeTheme,
         darkTheme: darkCodeTheme,
       },

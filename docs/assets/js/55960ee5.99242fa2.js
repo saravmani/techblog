@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmyblog=self.webpackChunkmyblog||[]).push([[4121],{8070:function(e){e.exports=JSON.parse('[{"name":"Docker","permalink":"/techblog/docs/tags/docker","count":1},{"name":"Architecture","permalink":"/techblog/docs/tags/architecture","count":1},{"name":"Container","permalink":"/techblog/docs/tags/container","count":1}]')}}]);
