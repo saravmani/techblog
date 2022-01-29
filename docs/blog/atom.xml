@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/techblog/blog</id>
-    <title>My Site Blog</title>
+    <title>Tech Blogs Blog</title>
     <updated>2022-01-15T15:22:29.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/techblog/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Tech Blogs Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/techblog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[dotnettest]]></title>

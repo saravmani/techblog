@@ -4,7 +4,7 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '.NET, Angular, Advanced Javascript',
     Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Software Design, Architectural Patterns',
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Cloud Computing, Microservices',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
@@ -40,10 +40,11 @@ function Feature({Svg, title, description}) {
     <div className={clsx('col col--4')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} alt={title} />
+        {/* <img SRC='https://i1.wp.com/www.ryadel.com/wp-content/uploads/2018/11/asp-net-core-logo.png'></img> */}
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title} titless</h3>
-        <p>{description}</p>
+        <h3>{title}</h3>
+        {/* <p>{description}</p> */}
       </div>
     </div>
   );
