@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Tech Blogs',
   tagline: 'Software Design| Architecture | Cloud Computing | Microservices | Parallel computing | .Net | Angular | Typescript | Advanced Javascript',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://saravmani.github.io',
   baseUrl: '/techblog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
